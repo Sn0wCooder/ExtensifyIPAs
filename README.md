@@ -20,7 +20,7 @@
 
 ### Rocket for Instagram
 
-* [Instagram v10.19.0 + v1.4.8](http://ideviceteam.com/ipa_signed/Instagram_v10.19.0_Rocket_v1.4.8.ipa)
+* [Instagram v10.19.0 + Rocket v1.4.8](http://ideviceteam.com/ipa_signed/Instagram_v10.19.0_Rocket_v1.4.8.ipa)
 
 ### SaveCloud for SoundCloud
 
@@ -28,7 +28,7 @@
 
 ### Watusi 2 for WhatsApp
 
-* [WhatsApp v2.17.22 + Watusi v0.12.1](http://ideviceteam.com/ipa_signed/WhatsApp_v2.17.22_Watusi2_v0.12.1.ipa)
+* [WhatsApp v2.17.22 + Watusi 2 v0.12.1](http://ideviceteam.com/ipa_signed/WhatsApp_v2.17.22_Watusi2_v0.12.1.ipa)
 
 ## Exos descriptions
 
