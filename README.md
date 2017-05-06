@@ -8,11 +8,11 @@
 
 ### Cercube 4 for YouTube
 
-* [YouTube v12.14 + Cercube 4 v4.0.9.6](http://ideviceteam.com/ipa_signed/YouTube_v12.14_Cercube_v4.0.9.6.ipa)
+* [YouTube v12.16.7 + Cercube 4 v4.0.9.6](http://ideviceteam.com/ipa_signed/YouTube_v2.16.7_Cercube4_v4.0.9.6.ipa)
 
 ### Mercury for Twitch
 
-*  [Twitch v3.10 + Mercury v1.0.1](http://ideviceteam.com/ipa_signed/Twitch_v3.18_Mercury_v1.0.1.ipa)
+*  [Twitch v3.20.1 + Mercury v1.0.1](http://ideviceteam.com/ipa_signed/Twitch_v3.18_Mercury_v1.0.1.ipa)
 
 ### Prenesi 3 for Facebook
 
@@ -65,7 +65,7 @@
 
 ![Help 4](img/help4.png "Help 4")
 
-* Wait for Cydia Impactor to finish then open YouTube on your iOS device.
+* Wait for Cydia Impactor to finish then open the app on your iOS device.
 
 
 Want to sideload UnlimApps ++ IPAs? Go [here](https://github.com/JMccormick264/PPAppsIPARepo)!
