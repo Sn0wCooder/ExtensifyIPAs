@@ -39,9 +39,9 @@
 
 #### Requirements:
 
-1. A computer running macOS, Windows or Linux
-2. Internet connection
-3. Apple ID (email & password)
+1. A computer running macOS, Windows or Linux;
+2. Internet connection;
+3. Apple ID (email & password).
 
 #### Guide:
 
