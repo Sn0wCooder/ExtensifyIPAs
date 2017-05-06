@@ -1,9 +1,5 @@
 # Extensify IPAs
 
-Site map:
-
-
-
 ## Download Links
 
 ### Cercube 3 for YouTube
