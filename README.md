@@ -4,11 +4,11 @@
 
 ### Cercube 3 for YouTube
 
-* [YouTube v12.16.7 + Cercube 3 v1.7.1](http://ideviceteam.com/ipa_signed/YouTube_v12.16.7_Cercube3_v1.7.1.ipa)
+* [YouTube v12.17 + Cercube 3 v1.7.1](http://ideviceteam.com/ipa_signed/YouTube_v12.17_Cercube3_v1.7.1.ipa)
 
 ### Cercube 4 for YouTube
 
-* [YouTube v12.16.7 + Cercube 4 v4.0.9.6](http://ideviceteam.com/ipa_signed/YouTube_v2.16.7_Cercube4_v4.0.9.6.ipa)
+* [YouTube v12.17 + Cercube 4 v4.0.9.6](http://ideviceteam.com/ipa_signed/YouTube_v12.17_Cercube4_v4.0.9.6.ipa)
 
 ### Mercury for Twitch
 
