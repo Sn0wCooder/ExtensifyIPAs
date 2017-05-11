@@ -8,7 +8,7 @@
 
 ### Cercube 4 for YouTube
 
-* [YouTube v12.17 + Cercube 4 v4.0.9.6](http://ideviceteam.com/ipa_signed/YouTube_v12.17_Cercube4_v4.0.9.6.ipa)
+* [YouTube v12.17 + Cercube 4 v4.0.9.7](http://ideviceteam.com/ipa_signed/YouTube_v12.17_Cercube4_v4.0.9.7.ipa)
 
 ### Mercury for Twitch
 
@@ -205,7 +205,7 @@ Notifications:
 
 * Hide badges of muted chats or groups.
 
-## How to manually create IPAs with exos
+## How to manually create IPAs with Exos
 
 ### Requirements:
 
@@ -274,6 +274,8 @@ To do it, follow the following guide.
 ### And _ExoBootstrap.framework_?
 
 I don't know what it is. Feel free to copy it in the application directory.
+
+**NOTE**: If you want to make the IPA as close as possible to Extensify, you can add a "+" at the end of the app name in the HomeScreen by editing the entry "CFBundleDisplayName" in the _Info.plist_ file located in the application zip.
 
 ## How to Sideload on non-Jailbroken devices
 
