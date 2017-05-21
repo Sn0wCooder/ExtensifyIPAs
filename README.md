@@ -4,31 +4,31 @@
 
 ### Cercube 3 for YouTube
 
-* [YouTube v12.17 + Cercube 3 v1.7.1](http://ideviceteam.com/ipa_signed/YouTube_v12.17_Cercube3_v1.7.1.ipa)
+* [YouTube v12.17 + Cercube 3 v1.7.1](https://github.com/Sn0wCooder/ExtensifyIPAs/raw/master/precompiled/YouTube_v12.18_Cercube3_v1.7.1.ipa)
 
 ### Cercube 4 for YouTube
 
-* [YouTube v12.17 + Cercube 4 v4.0.9.7](http://ideviceteam.com/ipa_signed/YouTube_v12.17_Cercube4_v4.0.9.7.ipa)
+* [YouTube v12.17 + Cercube 4 v4.0.9.7](https://github.com/Sn0wCooder/ExtensifyIPAs/raw/master/precompiled/YouTube_v12.18_Cercube4_v4.0.9.7.ipa)
 
 ### Mercury for Twitch
 
-*  [Twitch v3.20.1 + Mercury v1.0.1](http://ideviceteam.com/ipa_signed/Twitch_v3.18_Mercury_v1.0.1.ipa)
+*  [Twitch v3.20.1 + Mercury v1.0.1](https://github.com/Sn0wCooder/ExtensifyIPAs/raw/master/precompiled/Twitch_v3.18_Mercury_v1.0.1.ipa)
 
 ### Prenesi 3 for Facebook
 
-* [Facebook v91.0 + Prenesi 3 v3.0.9](Facebook_v91.0_Prenesi_v3.0.9.ipa)
+* [Facebook v93.0 + Prenesi 3 v3.0.9](https://github.com/Sn0wCooder/ExtensifyIPAs/raw/master/precompiled/Facebook_v93.0_Prenesi_v3.0.9.ipa)
 
 ### Rocket for Instagram
 
-* [Instagram v10.20 + Rocket v1.4.8](http://ideviceteam.com/ipa_signed/Instagram_v10.20_Rocket_v1.4.8.ipa)
+* [Instagram v10.20 + Rocket v1.4.8](https://github.com/Sn0wCooder/ExtensifyIPAs/raw/master/precompiled/Instagram_v10.21_Rocket_v1.4.8.ipa)
 
 ### SaveCloud for SoundCloud
 
-* [SoundCloud v5.4.1 + SaveCloud v1.0.9](http://ideviceteam.com/ipa_signed/SoundCloud_v5.4.1_SaveCloud_v1.0.9.ipa)
+* [SoundCloud v5.4.1 + SaveCloud v1.0.9](https://github.com/Sn0wCooder/ExtensifyIPAs/raw/master/precompiled/SoundCloud_v5.4.1_SaveCloud_v1.0.9.ipa)
 
 ### Watusi 2 for WhatsApp
 
-* [WhatsApp v2.17.22 + Watusi 2 v0.12.1](http://ideviceteam.com/ipa_signed/WhatsApp_v2.17.22_Watusi2_v0.12.1.ipa)
+* [WhatsApp v2.17.22 + Watusi 2 v0.12.1](https://github.com/Sn0wCooder/ExtensifyIPAs/raw/master/precompiled/WhatsApp_v2.17.22_Watusi2_v0.12.1.ipa)
 
 ## Exos descriptions
 
@@ -227,7 +227,7 @@ At the beginning, Terminal will ask you Administrator’s password. Enter it and
 
 To check if _optool_ is installed correctly, digit _optool_ on Terminal, and it will show you this:
 
-![optool-terminal](img/optool_terminal.png "optool-terminal")
+![optool-terminal](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/img/optool_terminal.png "optool-terminal")
 
 ### 2. Download/create cracked/decrypted version of the app you want to sideload
 
@@ -239,7 +239,7 @@ If you want to download cracked IPAs, Google is your friend :D
 
 Right click on IPA file previously, choose Open With and select Archive Utility.
 
-![unpack-ipa](img/unpack_IPA.png "unpack-ipa")
+![unpack-ipa](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/img/unpack_IPA.png "unpack-ipa")
 
 ### 4. Injecting dylib(s)
 
@@ -253,7 +253,7 @@ For example: ```optool install -c load -p @executable_path/Cercube.dylib -t /Use
 
 The output should be similar to this one:
 
-![optool-installed](img/optool-installed.png "optool-installed")
+![optool-installed](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/img/optool-installed.png "optool-installed")
 
 **If there are more dylibs, you have to inject all in the app.**
 
@@ -265,7 +265,7 @@ Now you have to copy **ALL** the dylib(s) (and eventually the _.bundle_) in the 
 
 Then you have to compress the Payload folder to a ZIP file.
 
-![compressfiles](img/compressfiles.png "compressfiles")
+![compressfiles](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/img/compressfiles.png "compressfiles")
 
 ### 7. Sign the IPA with Cydia Impactor
 
@@ -293,19 +293,19 @@ I don't know what it is. Feel free to copy it in the application directory.
 * Connect your iOS device and hit "Trust" if prompted. Your device will appear in Cydia Impactor now;
 * Drag the IPA file from your Desktop to Cydia Impactor;
 
-![Help 1](img/help1.png "Help 1")
+![Help 1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/img/help1.png "Help 1")
 
 * Enter your Apple ID email address when prompted;
 
-![Help 2](img/help2.png "Help 2")
+![Help 2](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/img/help2.png "Help 2")
 
 * Enter Your Apple ID password when prompted;
 
-![Help 3](img/help3.png "Help 3")
+![Help 3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/img/help3.png "Help 3")
 
 * If you get an alert like the following, press "OK";
 
-![Help 4](img/help4.png "Help 4")
+![Help 4](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/img/help4.png "Help 4")
 
 * Wait for Cydia Impactor to finish then open the app on your iOS device.
 
