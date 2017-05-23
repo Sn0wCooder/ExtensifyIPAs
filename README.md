@@ -20,7 +20,7 @@
 
 ### Rocket for Instagram
 
-* [Instagram v10.20 + Rocket v1.4.8](https://ipa_signed.ideviceteam.com/Instagram_v10.21_Rocket_v1.4.8.ipa)
+* [Instagram v10.20 + Rocket v1.4.8](https://ipa_signed.ideviceteam.com/Instagram_v10.22_Rocket_v1.4.8.ipa)
 
 ### SaveCloud for SoundCloud
 
