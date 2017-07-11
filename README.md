@@ -4,31 +4,31 @@
 
 ### Cercube 3 for YouTube
 
-* [YouTube v12.21.7 + Cercube 3 v1.7.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.21.7_Cercube3_v1.7.1.ipa)
+* [YouTube v12.25 + Cercube 3 v1.7.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.25_Cercube3_v1.7.1.ipa)
 
 ### Cercube 4 for YouTube
 
-* [YouTube v12.21.7 + Cercube 4 v4.0.9.9](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.21.7_Cercube4_v4.0.9.9.ipa)
+* [YouTube v12.25 + Cercube 4 v4.1.2](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.25_Cercube4_v4.1.2.ipa)
 
 ### Mercury for Twitch
 
-*  [Twitch v3.20.1 + Mercury v1.0.1](https://ipa_signed.ideviceteam.com/Twitch_v3.18_Mercury_v1.0.1.ipa)
+*  [Twitch v3.20.1 + Mercury v1.0.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Twitch_v3.18_Mercury_v1.0.1.ipa)
 
 ### Prenesi 3 for Facebook
 
-* [Facebook v96.0 + Prenesi 3 v3.0.9](https://extensify.ideviceteam.com/Facebook_v96.0_Prenesi3_v3.0.9.ipa)
+* [Facebook v100.0 + Prenesi 3 v3.0.9](https://extensify.ideviceteam.com/Facebook_v100.0_Prenesi3_v3.0.9.ipa)
 
 ### Rocket for Instagram
 
-* [Instagram v10.26 + Rocket v1.4.8](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v10.26_Rocket_v1.4.8.ipa)
+* [Instagram v10.29 + Rocket v2.0.5](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v10.29_Rocket_v2.0.5.ipa)
 
 ### SaveCloud for SoundCloud
 
-* [SoundCloud v5.7.0 + SaveCloud v1.0.9](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.7.0_SaveCloud_v1.0.9.ipa)
+* [SoundCloud v5.9.0 + SaveCloud v1.0.9](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.9.0_SaveCloud_v1.0.9.ipa)
 
 ### Watusi 2 for WhatsApp
 
-* [WhatsApp v2.17.30 + Watusi 2 v0.12.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.30_Watusi_v0.12.1.ipa)
+* [WhatsApp v2.17.31 + Watusi 2 v0.12.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.31_Watusi_v0.12.1.ipa)
 
 ## Exos descriptions
 
