@@ -8,7 +8,7 @@
 
 ### Cercube 4 for YouTube
 
-* [YouTube v12.28 + Cercube 4 v4.1.2](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.28_Cercube4_v4.1.2.ipa)
+* [YouTube v12.30 + Cercube 4 v4.1.5](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.30_Cercube4_v4.1.5.ipa)
 
 ### Mercury for Twitch
 
@@ -16,19 +16,19 @@
 
 ### Prenesi 3 for Facebook
 
-* [Facebook v133.0 + Prenesi 3 v3.0.9](https://extensify.ideviceteam.com/Facebook_v133.0_Prenesi_v3.0.9.ipa)
+* [Facebook v135.0 + Prenesi 3 v3.0.9](https://extensify.ideviceteam.com/Facebook_v135.0_Prenesi3_v3.0.9.ipa)
 
 ### Rocket for Instagram
 
-* [Instagram v10.32 + Rocket v2.0.5](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v10.32_Rocket_v2.0.5.ipa)
+* [Instagram v10.33 + Rocket v2.0.5](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v10.33_Rocket_v2.0.5.ipa)
 
 ### SaveCloud for SoundCloud
 
-* [SoundCloud v5.10.0 + SaveCloud v1.0.9](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.10.0_SaveCloud_v1.0.9.ipa)
+* [SoundCloud v5.11.0 + SaveCloud v1.0.9](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.11.0_SaveCloud_v1.0.9.ipa)
 
 ### Watusi 2 for WhatsApp
 
-* [WhatsApp v2.17.41 + Watusi 2 v1.0.8](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.41_Watusi2_v1.0.8.ipa)
+* [WhatsApp v2.17.42 + Watusi 2 v1.0.14](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.42_Watusi2_v1.0.14.ipa)
 
 ## Exos descriptions
 
