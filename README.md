@@ -2,21 +2,9 @@
 
 ## Download Links
 
-### Cercube 3 for YouTube
-
-* [YouTube v12.28 + Cercube 3 v1.7.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.28_Cercube3_v1.7.1.ipa)
-
 ### Cercube 4 for YouTube
 
 * [YouTube v12.30 + Cercube 4 v4.1.6](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.30_Cercube4_v4.1.6.ipa)
-
-### Mercury for Twitch
-
-*  [Twitch v3.20.1 + Mercury v1.0.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Twitch_v3.18_Mercury_v1.0.1.ipa)
-
-### Prenesi 3 for Facebook
-
-* [Facebook v135.0 + Prenesi 3 v3.0.9](https://extensify.ideviceteam.com/Facebook_v135.0_Prenesi3_v3.0.9.ipa)
 
 ### Rocket for Instagram
 
@@ -31,32 +19,6 @@
 * [WhatsApp v2.17.42 + Watusi 2 v1.0.14](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.42_Watusi2_v1.0.14.ipa)
 
 ## Exos descriptions
-
-### Cercube 3 for YouTube
-
-Cercube 3 is the best all-in-one video download extension for the YouTube app. 
-
-The official YouTube app is a great client but it lacks several key features that most YouTube users want like video downloads, customizable playback quality, no video ads and much more. 
-
-Cercube 3 takes care of the missing features in the app.
-
-It's built right into the YouTube app and adds these great features:
-
-* Download any video in any available quality, (from 144p to 1080p); 
-* View, manage and share all your downloads in Cercube's download manager; 
-* Block all promoted cells and video ads. * Send downloaded videos via AirDrop to other devices; 
-* Background playback capability for both streamed and downloaded videos; 
-* Downloaded videos are displayed within a beautifully Grafted downloads manager that shows all the available information; 
-* Select which page to display when launching the YouTube app; 
-* Unique short-hold button gestures; 
-* HD streaming on mobile networks; 
-* Auto replay videos; 
-* Trim tabs bar; 
-* Hide floating upload button; 
-* Hide "Trending" tab; 
-* Add backward & forward rewind buttons to video overlay. 
-
-Cercube options are configurable from within YouTube settings.
 
 ### Cercube 4 for YouTube
 
@@ -88,16 +50,6 @@ Customization:
 
 * Remove Trending tab; 
 * Force white keyboard accross app.
-
-### Mercury for Twitch
-
-Disable advertisements while watching videos in Twitch.
-
-### Prenesi 3 for Facebook
-
-Adds an extra download item to the action menu of video posts. 
-
-Set device language to English if you can't see the download button.
 
 ### Rocket for Instagram
 
