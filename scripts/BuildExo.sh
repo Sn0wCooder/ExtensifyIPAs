@@ -16,7 +16,6 @@ echo "Downloading Exos... (it will take a while!)"
 
 wget https://github.com/Sn0wCooder/Extensify-Exos/archive/master.zip > /dev/null 2>&1
 unzip master.zip > /dev/null 2>&1
-rm -rf Extensify-Exos-master/YouTube/Cercube3* > /dev/null 2>&1
 
 filename=$(basename Payload/*)
 extension="${filename##*.}"
