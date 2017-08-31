@@ -223,10 +223,6 @@ Then you have to compress the Payload folder to a ZIP file.
 
 To do it, follow the following guide.
 
-### And _ExoBootstrap.framework_?
-
-I don't know what it is. Feel free to copy it in the application directory.
-
 **NOTE**: If you want to make the IPA as close as possible to Extensify, you can add a "+" at the end of the app name in the HomeScreen by editing the entry "CFBundleDisplayName" in the _Info.plist_ file located in the application zip.
 
 ## How to Sideload on non-Jailbroken devices
