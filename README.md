@@ -16,7 +16,7 @@
 
 ### Watusi 2 for WhatsApp
 
-* [WhatsApp v2.17.42 + Watusi 2 v1.0.14](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.42_Watusi2_v1.0.14.ipa)
+* [WhatsApp v2.17.51 + Watusi 2 v1.0.14](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.51_Watusi2_v1.0.14.ipa)
 
 ## Exos descriptions
 
