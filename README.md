@@ -16,7 +16,7 @@
 
 ### SaveCloud for SoundCloud
 
-* [SoundCloud v5.11.0 + SaveCloud v1.0.9](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.11.0_SaveCloud_v1.0.9.ipa)
+* [SoundCloud v5.12.0 + SaveCloud v1.0.9](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.12.0_SaveCloud_v1.0.9.ipa)
 
 ### Watusi 2 for WhatsApp
 
