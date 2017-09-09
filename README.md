@@ -6,6 +6,10 @@
 
 * [YouTube v12.34 + Cercube 4 v4.1.9.2](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.34_Cercube4_v4.1.9.2.ipa)
 
+### Mercury for Twitch
+
+* [Twitch v5.2 + Mercury v1.0.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.11.0_SaveCloud_v1.0.9.ipa)
+
 ### Rocket for Instagram
 
 * [Instagram v13.0 + Rocket v2.1.0](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v13.0_Rocket_v2.1.0.ipa)
@@ -50,6 +54,10 @@ Customization:
 
 * Remove Trending tab; 
 * Force white keyboard accross app.
+
+## Mercury for Twitch
+
+Disable advertisements while watching videos in Twitch.
 
 ### Rocket for Instagram
 
