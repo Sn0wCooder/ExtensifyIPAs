@@ -10,6 +10,10 @@
 
 * [Twitch v5.2 + Mercury v1.0.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.11.0_SaveCloud_v1.0.9.ipa)
 
+### Phantom for Snapchat
+
+* [Snapchat v10.16.1.0 + Phantom v2.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Snapchat_v10.16.1.0_Phantom_v2.3.ipa)
+
 ### Rocket for Instagram
 
 * [Instagram v13.0 + Rocket v2.1.0](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v13.0_Rocket_v2.1.0.ipa)
@@ -58,6 +62,36 @@ Customization:
 ## Mercury for Twitch
 
 Disable advertisements while watching videos in Twitch.
+
+## Phantom for Snapchat
+
+Phantom supercharges Snapchat & lifts almost every limitation within the app.
+
+Features:
+
+* Keep Snaps in the Feed & mark read when you see fit;
+* Option to disable the hold gesture to keep snaps open;
+* Includes a Snap Log to automatically save sent media;
+* Ability to select multiple contacts at once.
+
+Save received media to:
+
+* Camera Roll;
+* Specified Photo Album;
+* Password protected folder (backed up by iTunes).
+
+Send images & videos from the Camera Roll:
+
+* Includes an image crop feature;
+* Ability to override video orientation by shake.
+
+Additional Caption Effects:
+
+* Type unlimited amount of text;
+* Change text font, size & color;
+* Change caption background image/color;
+* Set a custom Snapchat notification sound;
+* Hide badge count on app exit.
 
 ### Rocket for Instagram
 
