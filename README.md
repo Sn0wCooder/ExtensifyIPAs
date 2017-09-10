@@ -59,11 +59,11 @@ Customization:
 * Remove Trending tab; 
 * Force white keyboard accross app.
 
-## Mercury for Twitch
+### Mercury for Twitch
 
 Disable advertisements while watching videos in Twitch.
 
-## Phantom for Snapchat
+### Phantom for Snapchat
 
 Phantom supercharges Snapchat & lifts almost every limitation within the app.
 
