@@ -26,7 +26,7 @@
 
 * [WhatsApp v2.17.52 + Watusi 2 v1.0.20](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.52_Watusi2_v1.0.20.ipa)
 
-## Exos descriptions
+## Exos Descriptions
 
 ### Cercube 4 for YouTube
 
@@ -213,7 +213,7 @@ Notifications:
 
 ### Guide:
 
-#### 1. Install _optool_ binary (only for the first time)
+### 1. Install _optool_ binary (only for the first time)
 
 To install _optool_ (only for the first time), open Terminal (/Applications/Utilities/Terminal) and digit this command: ```cd /usr/bin && sudo curl -OL https://github.com/alexzielenski/optool/releases/download/0.1/optool.zip && sudo unzip /usr/bin/optool.zip -d /usr/bin && sudo rm -rf optool.zip```.
 
