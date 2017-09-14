@@ -4,7 +4,7 @@
 
 ### Cercube 4 for YouTube
 
-* [YouTube v12.35 + Cercube 4 v4.1.9.2](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.34_Cercube4_v4.1.9.2.ipa)
+* [YouTube v12.35 + Cercube 4 v4.1.9.2](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.35_Cercube4_v4.1.9.2.ipa)
 
 ### Mercury for Twitch
 
@@ -12,7 +12,7 @@
 
 ### Phantom for Snapchat
 
-* [Snapchat v10.16.1.0 + Phantom v2.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Snapchat_v10.16.1.0_Phantom_v2.3.ipa)
+* [Snapchat v10.17.1.0 + Phantom v2.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Snapchat_v10.17.1.0_Phantom_v2.3.ipa)
 
 ### Rocket for Instagram
 
