@@ -4,7 +4,7 @@
 
 ### Cercube 4 for YouTube
 
-* [YouTube v12.34 + Cercube 4 v4.1.9.2](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.34_Cercube4_v4.1.9.2.ipa)
+* [YouTube v12.35 + Cercube 4 v4.1.9.2](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.34_Cercube4_v4.1.9.2.ipa)
 
 ### Mercury for Twitch
 
