@@ -1,6 +1,15 @@
 #!/bin/bash
 
-# optool must be installed: cd /usr/bin && sudo curl -OL https://github.com/alexzielenski/optool/releases/download/0.1/optool.zip && sudo unzip /usr/bin/optool.zip -d /usr/bin && sudo rm -rf optool.zip
+if which optool >/dev/null; then
+    echo "Optool is installed"
+else
+	echo "Optool is NOT installed. Proceed with installation..."
+    cd /usr/bin > /dev/null 2>&1
+	sudo curl -OL https://github.com/alexzielenski/optool/releases/download/0.1/optool.zip > /dev/null 2>&1
+	sudo unzip /usr/bin/optool.zip -d /usr/bin > /dev/null 2>&1
+	sudo rm -rf optool.zip > /dev/null 2>&1
+	cd
+fi
 
 echo "Insert here the cracked IPA:"
 read crackedipa
@@ -26,8 +35,6 @@ svn checkout https://github.com/Sn0wCooder/Extensify-Exos/trunk/$filename/$tweak
 
 tweakv=${tweakv%/}
 
-#echo "Done downloading Exo $tweakv"
-
 cp -r $tweakv/* Payload/$filename.app/
 
 EXT=dylib
@@ -38,7 +45,6 @@ for i in $tweakv/*; do
 		optool install -c load -p @executable_path/$dylibname -t Payload/*/$filename > /dev/null 2>&1
 	fi
 done
-#tweakv=$(basename Extensify-Exos-master/$filename/*)
 echo "Repacking..."
 zip -9qry "app.ipa" "Payload" > /dev/null 2>&1
 BUNDLE_VERSION=$(/usr/libexec/PlistBuddy -c "Print :CFBundleShortVersionString" Payload/*/Info.plist)
