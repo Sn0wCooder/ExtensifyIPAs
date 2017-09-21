@@ -8,7 +8,7 @@
 
 ### Mercury for Twitch
 
-* [Twitch v5.2 + Mercury v1.0.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.11.0_SaveCloud_v1.0.9.ipa)
+* [Twitch v5.3 + Mercury v1.0.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Twitch_v5.3_Mercury_v1.0.1.ipa)
 
 ### Phantom for Snapchat
 
