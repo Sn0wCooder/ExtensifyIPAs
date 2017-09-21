@@ -1,9 +1,9 @@
 #!/bin/bash
 
 if which optool >/dev/null; then
-    echo "Optool is installed"
+    echo "optool is installed"
 else
-	echo "Optool is NOT installed. Proceed with installation..."
+	echo "optool is NOT installed. Proceed with installation..."
     cd /usr/bin > /dev/null 2>&1
 	sudo curl -OL https://github.com/alexzielenski/optool/releases/download/0.1/optool.zip > /dev/null 2>&1
 	sudo unzip /usr/bin/optool.zip -d /usr/bin > /dev/null 2>&1
