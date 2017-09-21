@@ -6,6 +6,10 @@
 
 * [YouTube v12.35 + Cercube 4 v4.1.9.2](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.35_Cercube4_v4.1.9.2.ipa)
 
+### Chopsticks for Crunchyroll
+
+* [Crunchyroll v3.1.0 + Chopsticks v1.0.0](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Crunchyroll_v3.1.0_Chopsticks_v1.0.0.ipa)
+
 ### Mercury for Twitch
 
 * [Twitch v5.3 + Mercury v1.0.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Twitch_v5.3_Mercury_v1.0.1.ipa)
@@ -58,6 +62,10 @@ Customization:
 
 * Remove Trending tab; 
 * Force white keyboard accross app.
+
+### Chopsticks for Crunchyroll
+
+Watch Anime and block advertisements in Crunchyroll app without a premium subscription.
 
 ### Mercury for Twitch
 
