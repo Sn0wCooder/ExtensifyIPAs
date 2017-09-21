@@ -12,7 +12,7 @@
 
 ### Phantom for Snapchat
 
-* [Snapchat v10.17.1.0 + Phantom v2.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Snapchat_v10.17.1.0_Phantom_v2.3.ipa)
+* [Snapchat v10.17.5.0 + Phantom v2.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Snapchat_v10.17.5.0_Phantom_v2.3.ipa)
 
 ### Rocket for Instagram
 
