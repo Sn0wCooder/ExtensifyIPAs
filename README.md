@@ -4,7 +4,7 @@
 
 ### Cercube 4 for YouTube
 
-* [YouTube v12.35 + Cercube 4 v4.1.9.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.35_Cercube4_v4.1.9.3.ipa)
+* [YouTube v12.37 + Cercube 4 v4.1.9.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.37_Cercube4_v4.1.9.3.ipa)
 
 ### Chopsticks for Crunchyroll
 
