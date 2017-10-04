@@ -2,31 +2,33 @@
 
 ## Download Links
 
-### Cercube 4 for YouTube
+### YouTube
 
 * [YouTube v12.37 + Cercube 4 v4.1.9.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.37_Cercube4_v4.1.9.3.ipa)
 
-### Chopsticks for Crunchyroll
+### Crunchyroll
 
 * [Crunchyroll v3.1.0 + Chopsticks v1.0.0](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Crunchyroll_v3.1.0_Chopsticks_v1.0.0.ipa)
 
-### Mercury for Twitch
+### Twitch
 
 * [Twitch v5.3 + Mercury v1.0.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Twitch_v5.3_Mercury_v1.0.1.ipa)
 
-### Phantom for Snapchat
+### Snapchat
 
 * [Snapchat v10.18.1.0 + Phantom v2.4](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Snapchat_v10.18.1.0_Phantom_v2.4.ipa)
 
-### Rocket for Instagram
+### Instagram
 
 * [Instagram v17.0 + Rocket v2.1.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v17.0_Rocket_v2.1.1.ipa)
+* [Instagram v17.0 + IGExperiments v1.4](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v17.0_IGExperiments_v1.4.ipa)
+* [Instagram v17.0 + IGExperiments v1.4 + Rocket v2.1.1](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v17.0_IGExperiments_v1.4_Rocket_v2.1.1.ipa)
 
-### SaveCloud for SoundCloud
+### SoundCloud
 
 * [SoundCloud v5.13.0 + SaveCloud v1.1.0](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/SoundCloud_v5.13.0_SaveCloud_v1.1.0.ipa)
 
-### Watusi 2 for WhatsApp
+### WhatsApp
 
 * [WhatsApp v2.17.52 + Watusi 2 v1.0.20](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.52_Watusi2_v1.0.20.ipa)
 
@@ -66,6 +68,14 @@ Customization:
 ### Chopsticks for Crunchyroll
 
 Watch Anime and block advertisements in Crunchyroll app without a premium subscription.
+
+### IGExperiments for Instagram
+
+IGExperiments adds a new button which allows access to modifying the A/B features Instagram is testing.
+
+With this tweak you can enable the new white UI, unlock 60sec video uploads and much more.
+
+To link your Instagram to your Facebook page to view insights go to account settings and tap on "Switch To Business Account".
 
 ### Mercury for Twitch
 
