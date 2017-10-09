@@ -4,7 +4,7 @@
 
 ### YouTube
 
-* [YouTube v12.37 + Cercube 4 v4.1.9.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.37_Cercube4_v4.1.9.3.ipa)
+* [YouTube v12.38 + Cercube 4 v4.1.9.4](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/YouTube_v12.38_Cercube4_v4.1.9.4.ipa)
 
 ### Crunchyroll
 
