@@ -30,7 +30,7 @@
 
 ### WhatsApp
 
-* [WhatsApp v2.17.60 + Watusi 2 v1.0.20](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.60_Watusi2_v1.0.20.ipa)
+* [WhatsApp v2.17.61 + Watusi 2 v1.0.20](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/WhatsApp_v2.17.61_Watusi2_v1.0.20.ipa)
 
 ## Exos Descriptions
 
