@@ -20,9 +20,9 @@
 
 ### Instagram
 
-* [Instagram v19.0 + IGExperiments v1.4](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v19.0_IGExperiments_v1.4.ipa)
-* [Instagram v19.0 + Rocket v2.1.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v19.0_Rocket_v2.1.3.ipa)
-* [Instagram v19.0 + IGExperiments v1.4 + Rocket v2.1.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v19.0_IGExperiments_v1.4_Rocket_v2.1.3.ipa)
+* [Instagram v20.0 + IGExperiments v1.4](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v20.0_IGExperiments_v1.4.ipa)
+* [Instagram v20.0 + Rocket v2.1.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v20.0_Rocket_v2.1.3.ipa)
+* [Instagram v20.0 + IGExperiments v1.4 + Rocket v2.1.3](https://raw.githubusercontent.com/Sn0wCooder/ExtensifyIPAs/master/precompiled/Instagram_v20.0_IGExperiments_v1.4_Rocket_v2.1.3.ipa)
 
 ### SoundCloud
 
